@@ -1,7 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/radiantearth/source-cooperative/assets/110435/e0b902e5-ab39-4edb-9213-e86b49dce200">
-  <source media="(prefers-color-scheme: light)" srcset="
-https://github.com/radiantearth/source-cooperative/assets/110435/3346ac4a-2b9e-484e-9a8c-a4e17288bb8a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/radiantearth/source-cooperative/assets/110435/3346ac4a-2b9e-484e-9a8c-a4e17288bb8a">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="
 https://github.com/radiantearth/source-cooperative/assets/110435/3346ac4a-2b9e-484e-9a8c-a4e17288bb8a" width="40%">
 </picture>
