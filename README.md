@@ -1,6 +1,14 @@
-![Source Logo](https://github.com/radiantearth/radiant.earth-site-internal/blob/b40fcede970489c6e4e25bf6c275195a92baecb0/themes/etch/static/img/source-logotype.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/radiantearth/source-cooperative/assets/110435/e0b902e5-ab39-4edb-9213-e86b49dce200">
+  <source media="(prefers-color-scheme: light)" srcset="
+https://github.com/radiantearth/source-cooperative/assets/110435/3346ac4a-2b9e-484e-9a8c-a4e17288bb8a">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="
+https://github.com/radiantearth/source-cooperative/assets/110435/3346ac4a-2b9e-484e-9a8c-a4e17288bb8a" width="40%">
+</picture>
 
-Source Cooperative is a new data publishing utility that allows trusted organizations and individuals to share data products with one another using standard HTTP methods. You can see the current beta version of Source Co-op [here](https://beta.source.coop/).
+---
+
+Source Cooperative is a new data publishing utility that allows trusted organizations and individuals to share data products with one another using standard HTTP methods. You can see the current beta version at [https://beta.source.coop](https://beta.source.coop/).
 
 Source Cooperative is the next generation of [Radiant MLHub](https://mlhub.earth/), our library dedicated to open Earth observation training data.
 
@@ -12,11 +20,7 @@ The beta version of Source Cooperative is publicly available and can be found at
 
 # Development Roadmap 
 
-At Radiant Earth, transparency is a core value and we're excited to share our latest developments with you.
-
-There are still many features we have planned for Source Cooperative that are not yet integrated into the current beta release. 
-
-To give you a clearer picture of our roadmap, we have outlined our plans in the [GitHub Milestones](https://github.com/radiantearth/source-cooperative/milestones). There, you can see the features we are actively working on and whether they will be included in the [summer 2023 release](https://github.com/radiantearth/source-cooperative/milestone/1) or still do not have a timeframe for their integration (see [TBD Milestone](https://github.com/radiantearth/source-cooperative/milestone/2)).
+You can see our roadmap in the [Milestones](https://github.com/radiantearth/source-cooperative/milestones) of this repository. There, you can see the features we are actively working on and whether they will be included in the [summer 2023 release](https://github.com/radiantearth/source-cooperative/milestone/1) or still do not have a timeframe for their integration (see [TBD Milestone](https://github.com/radiantearth/source-cooperative/milestone/2)).
 
 # Interact with Existing Planned Features
 
